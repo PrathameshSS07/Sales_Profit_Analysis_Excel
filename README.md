@@ -15,7 +15,7 @@ This project analyzes sales and profit performance using Excel. The objective wa
 - Noticeable variation in profit margins across categories highlights cost and pricing inefficiencies
   
 ## Dashboard Preview
-![Dashboard](dashboard.jpeg)
+![Dashboard](dashboard.png)
 
 ## Files Included
 - Excel Dashboard (.xlsx)
