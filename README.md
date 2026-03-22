@@ -14,7 +14,7 @@ This project analyzes sales and profit performance using Excel. The objective wa
 - Consumer segment contributed the most to overall sales
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpeg)
 
 ## Files Included
 - Excel Dashboard (.xlsx)
