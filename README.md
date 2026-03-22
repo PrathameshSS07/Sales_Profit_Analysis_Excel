@@ -3,6 +3,9 @@
 ## Overview
 This project analyzes sales and profit performance using Excel. The objective was to identify key trends, top-performing categories, and regional performance.
 
+## Project Objective
+The objective of this project was to analyze retail sales data and identify key patterns in revenue, profit, and customer segments. The analysis focuses on deriving actionable insights that can support business decision-making.
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
