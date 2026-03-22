@@ -9,10 +9,11 @@ This project analyzes sales and profit performance using Excel. The objective wa
 - Charts & Dashboarding
 
 ## Key Insights
-- Technology category generated the highest sales and profit
-- West region showed the strongest profit performance
-- Consumer segment contributed the most to overall sales
-
+- Technology category generated the highest overall sales and profit, indicating strong product demand
+- West region outperformed other regions in profitability, suggesting better market conditions or pricing strategy
+- Consumer segment contributed the largest share of total sales, making it the primary revenue driver
+- Noticeable variation in profit margins across categories highlights cost and pricing inefficiencies
+  
 ## Dashboard Preview
 ![Dashboard](images/dashboard.jpeg)
 
