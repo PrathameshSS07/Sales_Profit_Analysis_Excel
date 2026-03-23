@@ -16,6 +16,9 @@ The objective of this project was to analyze retail sales data and identify key 
 - West region outperformed other regions in profitability, suggesting better market conditions or pricing strategy
 - Consumer segment contributed the largest share of total sales, making it the primary revenue driver
 - Noticeable variation in profit margins across categories highlights cost and pricing inefficiencies
+- Identified high-performing product categories
+- Observed profit variation across segments
+- Analyzed sales trends to support decision-making
   
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
